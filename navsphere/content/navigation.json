@@ -915,6 +915,14 @@
           "description": "3x导出链接转clash",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=dyzh.824000.xyz",
           "enabled": true
+        },
+        {
+          "id": "1756984183953",
+          "title": "自己的3x",
+          "href": "http://48.218.156.137:518/W3M4PogDPH8P3htX9w/panel/inbounds",
+          "description": "访问 48.218.156.137",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=48.218.156.137",
+          "enabled": true
         }
       ],
       "subCategories": []
