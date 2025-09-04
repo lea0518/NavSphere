@@ -900,6 +900,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1756983892611",
+      "title": "常用工具",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
