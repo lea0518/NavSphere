@@ -92,6 +92,14 @@
           "description": "Beautiful & consistent icon toolkit made by the community.",
           "icon": "/assets/favicon_1754229702059.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1756983751724_54sq25i5w",
+          "title": "订阅转换",
+          "href": "http://dyzh.824000.xyz/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dyzh.824000.xyz",
+          "enabled": true
         }
       ],
       "subCategories": [],
