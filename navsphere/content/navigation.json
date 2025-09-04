@@ -907,7 +907,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1756983905784",
+          "title": "订阅转换",
+          "href": "http://dyzh.824000.xyz/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dyzh.824000.xyz",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
